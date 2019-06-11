@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "253282658601",
+    "firebase_url": "https://whoplaysfirst.firebaseio.com",
+    "project_id": "whoplaysfirst",
+    "storage_bucket": "whoplaysfirst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253282658601:android:8e404dce6d46b5da",
+        "android_client_info": {
+          "package_name": "com.velen.whoplaysfirst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253282658601-t316jjiubck2t9pg1dsveeo0lb5lv8cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.velen.whoplaysfirst",
+            "certificate_hash": "49abc33b94fd7ef5118c78436125d518e6132721"
+          }
+        },
+        {
+          "client_id": "253282658601-tp0j9eeuocqgnrc5j4orlengh66a00um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyMRw-TCHZRbZ75RALRTwG-OfQ6_-uAaY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253282658601-tp0j9eeuocqgnrc5j4orlengh66a00um.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-8012215063928736~8449337839"
+    }
+  ],
+  "configuration_version": "1"
+}

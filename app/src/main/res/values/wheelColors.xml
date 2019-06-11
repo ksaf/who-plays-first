@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wheel_colors">
+        <item>@color/wheelColorPurple</item>
+        <item>@color/wheelColorMagenda</item>
+        <item>@color/wheelColorRed</item>
+        <item>@color/wheelColorPeach</item>
+        <item>@color/wheelColorYellow</item>
+        <item>@color/wheelColorGreen</item>
+        <item>@color/wheelColorBlue</item>
+    </string-array>
+    <color name="wheelColorBlue">#0392CF</color>
+    <color name="wheelColorGreen">#7BC043</color>
+    <color name="wheelColorPeach">#F37736</color>
+    <color name="wheelColorRed">#EE4035</color>
+    <color name="wheelColorYellow">#FDF498</color>
+    <color name="wheelColorMagenda">#961B81</color>
+    <color name="wheelColorPurple">#672382</color>
+
+</resources>
